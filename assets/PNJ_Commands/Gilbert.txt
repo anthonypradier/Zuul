@@ -1,0 +1,19 @@
+createquest Salutationsss-au-soleil_Retrouver-le-fusil-du-soldat-incinnu-dans-la-région-du-soleil-Bociaccia_finditem_fusil_null_10_10
+eat
+go
+go bas
+go sud
+wait
+createquest Salutationss-au-soleil_Retrouver-le-fusil-du-soldat-incinnu-dans-la-région-du-soleil-Bociaccia_finditem_fusil_null_10_10
+wait
+wait
+createquest Salutation-au-soleil_Retrouver-le-fusil-du-soldat-incinnu-dans-la-région-du-soleil-Bociaccia_finditem_fusil_null_10_10
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait
+wait

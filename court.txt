@@ -1,0 +1,10 @@
+go sudouest
+eat
+go sudouest
+take plume
+take dactylotype
+info
+go haut
+drop dactylotype
+look
+info

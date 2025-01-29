@@ -1,0 +1,69 @@
+Projet inspiré de Violet Evergardeen
+
+Thème : Au Japon, Violet recherche un être cher et le sens d'une phrase
+
+Description : Au cours de la guerre, Violet a perdu ses bras, et une certaine personne laissée pour morte lui a prononcé des mots qui sont restés gravés en elle, mais dont elle ne connaît pas le sens. La guerre étant finie, tout son voyage, toute son aventure aura pour but de découvrire le véritable sens de ces mots non sans difficultés, et de rechercher cette fameuse personne qui lui a dit ces paroles, qu'elle pense toujours vivante.
+
+Violet : 18 ans
+	 161 cm
+
+Map : carte du japon + quelques pays autres (Russie/URSS, avec Léon...) https://violet-evergarden.fandom.com/wiki/Category:Locations
+
+"Salles" : lieux où Violet est allée pour ses recherches / épreuves surmontées
+
+Images : de l'animé de préférence
+
+Styles de quêtes : Écrire une lettre qui a une probabilité de satisfaire le client (faible au début car illétrée, élevée à la fin)
+		   Se rendre à des endroits spéciaux pour y rencontrer des gens (Léon), apprendre, observer des choses qui augmenteront la probabilité de faire des lettres satisfaisantes
+		   Réécrire des livres déchirés
+		   Récolter des informations
+		   Se battre (Mission en guerre au début ? + en Russie/URSS)
+
+Détails supplémentaires généraux pour le jeu :
+	- Ajouter une bande son (BO de Violet si possible)
+	- "Générique de fin" avec montage vidéo (image de l'anime/film) + musique (Michishirube de Fonzi M - Anime Piano Music Collection)
+
+
+Détails supplémentaires déplacements / carte :
+	- ATTENTION La carte de base ne doit pas être connue, elle doit être vierge de base, puis se construit au fil des déplacement montrant les chemins empruntés
+	- Déplacements avec le nom des villes (boutons qui changent selon les villes qui sont accessibles + afficher les villes accessibles et commande "go [ville]" pour se déplacer si la ville est accessible) # obselète ?
+	- Sur une ville, ne pas "entrer" entrer dans la ville automatiquement, générer un petit "pop-up" pour laisser la possibilité d'entrer. Si on rentre, afficher une ou plusieurs images du jeu défilables (peut-être faire comme google map pour entrer dans certains lieux/maison :: facultatif)
+	- Là où se trouve Leon : Eustitia ( ユースティティア, Yūsutitia?) est une ville renommée comme la capitale de l'astronomie. Elle est située dans la partie sud-ouest du continent dans le pays d'Astrea, dont le centre est légèrement traversée par des chaînes de montaignes s'étendant du milieu du continent jusqu'au sud-ouest. Les habitants vivent à environ 1 500 mètre au dessus du niveau de la mer. Au centre d'Eustitia se trouve le Siège Astronomique Shaher, aussi connu sous le nom de "Observatoire" (plus d'info https://violet-evergarden.fandom.com/wiki/Leon_Stephanotis)
+
+Détail sur l'évolution du personnage :
+	- Jauge de "compréhension" au minimum au début du jeu qui se remplit petit à petit à force d'écrire des lettres, de faire des missions en général
+	- Jauge d'agressivité au maximum au début du jeu qui diminue à force de faire des missions
+
+
+
+Citations intéressantes : 
+	- Je veux savoir ce que "je t'aime" veut dire - Violet Evergarden
+	- Je courrai aussi vite que possible là où mon client le désire. Je suis la poupée de souvenirs automatique, Violet Evergarden - Violet Evergarden
+	- Ai-je un quelconque droit après avoir tué autant de personnes en tant arme? Je les ai empêcheé de tenir leurs promesses ! Des promesses qu'ils ont fait à leurs proches ! Tout ce que j'ai fait jusqu'à présent a déclenché une flamme qui me brûle maintenant - Violet Evergarden
+	- Les personnes défuntes reçoivent plus de fleurs que les personnes mortes car le regret est plus fort que la gratitude - Violet Evergarden
+	- Je sais qu'on s'était dit au revoir. Mais je ne savais pas que c'était pour toujours - Violet Evergarden
+	- Une poupée optimal consistera à déchiffrer les sentiments d'une personne et de les exprimer sur papier - Violet Evergarden
+	- Vis... Sois libre. Du plus profond de mon coeur, je t'aime - Major Gilbert
+	- Tu t'appelles Violet. Je suis sûr que tu deviendras une femme aussi belle que ces fleurs - Major Gilbert
+	- Vous allez apprendre beaucoup de choses, mais il pourrait être plus facile de continuer à vivre, si vous ne les avez pas apprises, si vous ne les connaissiez pas. Vous ne réalisez pas que votre corps est en feu et brûle à cause des choses que vous avez faites. Vous comprendrez un jour. Et puis vous vous rendrez compte pour la première fois que vous avez de nombreuses brûlures - Claudia Hodgins
+	- Une lettre peut parfois être courte et douce, tout en exprimant des sentiments importants - Luculia Marlborough
+
+
+
+
+Étape du jeu:
+	1.Introduire Violet comme une Machine de guerre illétrée, que le Major Gilbert essaie d'instruire " Commencer le jeu pendant la guerre contre les États-Unis, bien mettre en valeur l'efficacité de Violet pour le combat et l'absence de sentiment et connaissance. Ne pas passer trop de temps sur ce passage, Juste le temps d'introduire Violet, Major Gilbert et Claudia Hodgins (qui embauchera Violet comme poupée), et mettre en évidence le passage où Violet perd ses bras et que Major Gilbert lui dit "Vis... Sois libre. Du plus profond de mon coeur, je t'aime"
+
+
+
+Map : https://violet-evergarden.fandom.com/wiki/Category:Locations
+
+
+Chronologie de l'anime :
+	1. A la guerre à Intense -> Violet à la guerre, Major lance une fusée au sommet du fort
+	2. Leidenschaftlich / Compagnie de poste CH -> 
+
+
+
+
+

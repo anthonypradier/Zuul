@@ -1,0 +1,88 @@
+-> Synchronisation du projet local vers GitLab
+
+Outils / Equipe / Partage du projet
+
+
+
+-> URL HTTPS du projet
+
+Gitlab / selectionner le projet / Clone / clone with HTTPS
+
+
+
+/!\ TESTER LA CONNECTION AVANT DE VALIDER /!\
+
+
+
+-> État du projet
+
+Le bouton Etat dans BlueJ permet d’accéder à une fenêtre dans laquelle sont listés les fichiers 
+qui ont subi des modifications depuis la dernière synchronisation du projet. 
+
+
+
+-> Synchronisation des modifications
+
+Pour synchroniser tes modifications, git te permet de faire les choses suivantes : 
+- « Commiter » : créer une sauvegarde de tes modifications en cours.
+- « Pusher » : envoyer les commits contenant les modifications sur GitLab.
+BlueJ dispose d’une fonction intégrée qui fait tout ça automatiquement. Clique sur 
+Commit/Push.
+
+Tu peux voir les fichiers contenant des modifications, ou les nouveaux fichiers ajoutés au 
+projet, dans « Files ready for commit ». Ajoute une description à ton commit, sois le plus précis 
+possible, tu verras que c’est important dans la durée du projet pour t’y retrouver plus 
+facilement (par exemple le numéro d’exercice).
+
+
+
+-> Consulter l’historique git
+
+Outils / Equipe / Historique Projet
+
+
+
+-> Mettre à jour son projet
+
+Il est possible que des modifications soient apportées à ton projet sur ton GitLab et non sur 
+ton projet local, par exemple lorsque tu es amené à travailler sur différentes machines, ou 
+avec différentes personnes sur ton projet.
+C’est pourquoi il faut toujours s’assurer que ton projet LOCAL est à jour avant de commencer
+un nouvel exercice. Pour cela, il faut que tu récupères sur ton projet local toutes les 
+modifications qui ont pu être poussées sur GitLab. On appelle ça « puller » dans le jargon.
+
+
+/!\
+
+A la fin de chaque session de travail, NE PAS OUBLIER Commit + Push.
+Si plusieurs exercices ont été faits pendant une même session, il est conseillé de faire un 
+Commit à la fin de chaque exercice.
+
+/!\
+
+
+-> Récupérer son projet depuis GitLab
+
+Voici un exemple de comment récupérer ton projet hébergé sur GitLab sur une nouvelle 
+machine (éventuellement en cas de perte de projet en local par exemple).
+Outils  Equipe  Extraction projet 
+
+SSH Passphrase : C4fnC912VrD7LHdzSP5M7y
+SHA256:eix8iPJ8/KgLjYphzTJoeYqS3X/Gjgibb+pp2Pll/Ak anthony.pradier@edu.esiee.fr
+
+SSH public key : ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPX76Tpj7mOsab9Aw7X7Y0049axLaKkayMOlxAS2xR91 anthony.pradier@edu.esiee.fr
+
+
+The key's randomart image is:
++--[ED25519 256]--+
+|                 |
+|                 |
+|                 |
+|                 |
+|        S        |
+|. +o + +         |
+|o@=*o.E.+        |
+|OoXXo+oO+.       |
+|=+*=O=+==        |
++----[SHA256]-----+
+

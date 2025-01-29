@@ -1,0 +1,6 @@
+go sudouest
+go sudouest
+take plume
+take feuille
+take encre
+write
